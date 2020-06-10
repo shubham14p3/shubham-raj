@@ -1,9 +1,4 @@
-# Shubham-Raj
-
-> Self Portfolio.
-
-![screenshot](./app_screenshot.png)
-
+# Shubham-Raj-V1
 
 ## Built With
 
